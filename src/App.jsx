@@ -8,7 +8,7 @@ const App = () => {
     //   <p>i am coder</p>
     //   <Call />
     // </div>
-    <div className='flex justify-center'>
+    <div className='flex justify-center items-center gap-1'>
       <h1 class="text-3xl font-bold underline">
         Hello world!
       </h1>
